@@ -12,7 +12,7 @@ In Donkey Kong Reverse, jumpman starts the barrels stage, conveyors stage and el
 
 And in the rivets stage, instead of unplugging the rivets, jumpman has to plug them back in. Instead of the tactic in which you try to lock the firefoxes at one side of the screen, they are already locked when they spawn. And by plugging the rivets in, you free them and enable them to start roaming the screen.
 
-YouTube video: .
+YouTube video: https://youtu.be/GKTIVgMJeFo.
 
 You can play this game in MAME by replacing the original dkong.zip by this Donkey Kong Reverse version of the zip.
 
