@@ -4,8 +4,6 @@ Always wanted to know how it would be to play Donkey Kong in reverse???
 
 It is now possible with this rom hack Donkey Kong Reverse.
 
-<image title screen> 
-
 In Donkey Kong Reverse, jumpman starts the barrels stage, conveyors stage and elevators stage at the top of the screen and has to grab Pauline's heart at the bottom: 
 
 - Imaging running down the girders while being chased by the barrels behind you in the barrels stage. 
@@ -14,10 +12,9 @@ In Donkey Kong Reverse, jumpman starts the barrels stage, conveyors stage and el
 
 And in the rivets stage, instead of unplugging the rivets, jumpman has to plug them back in. Instead of the tactic in which you try to lock the firefoxes at one side of the screen, they are already locked when they spawn. And by plugging the rivets in, you free them and enable them to start roaming the screen.
 
-Donkey Kong Reverse:
-<link to Github zip>
+YouTube video: .
 
-<YouTube video>
+You can play this game in MAME by replacing the original dkong.zip by this Donkey Kong Reverse version of the zip.
 
 Besides the reversed gameplay I've tried to keep the game as close to the original as possible. However, to increase the gameplay, I had to make the following adjustments:
 
