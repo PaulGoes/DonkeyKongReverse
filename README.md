@@ -8,9 +8,9 @@ It is now possible with this rom hack Donkey Kong Reverse.
 
 In Donkey Kong Reverse, jumpman starts the barrels stage, conveyors stage and elevators stage at the top of the screen and has to grab Pauline's heart at the bottom: 
 
-..* Imaging running down the girders while being chased by the barrels behind you in the barrels stage ... 
-..* Or trying to evade the bouncing springs while trying to ascend the top ladder in the elevator stage ... 
-..* Or trying not to be grabbed by Donkey Kong at the top conveyor in the conveyor stage.
+- Imaging running down the girders while being chased by the barrels behind you in the barrels stage. 
+- Or trying to evade the bouncing springs while trying to ascend the top ladder in the elevator stage. 
+- Or trying not to be grabbed by Donkey Kong at the top conveyor in the conveyor stage.
 
 And in the rivets stage, instead of unplugging the rivets, jumpman has to plug them back in. Instead of the tactic in which you try to lock the firefoxes at one side of the screen, they are already locked when they spawn. And by plugging the rivets in, you free them and enable them to start roaming the screen.
 
