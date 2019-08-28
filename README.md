@@ -1,9 +1,8 @@
 # DonkeyKongReverse
-Donkey Kong arcade rom hack: Donkey Kong Reverse
 
 Always wanted to know how it would be to play Donkey Kong in reverse??? 
 
-It is now possible with the rom hack Donkey Kong Reverse.
+It is now possible with this rom hack Donkey Kong Reverse.
 
 <image title screen> 
 
