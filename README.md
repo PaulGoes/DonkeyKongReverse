@@ -14,7 +14,11 @@ And in the rivets stage, instead of unplugging the rivets, jumpman has to plug t
 
 YouTube video: https://youtu.be/GKTIVgMJeFo.
 
-You can play this game in MAME by replacing the original dkong.zip by this Donkey Kong Reverse version of the zip.
+There are two ways to play this rom-hack:
+
+- Play in an emulator that supports the rom-hack. Currently Homebrew Mame (HBMame) and Libretro FB Neo (lr-fbneo) support the game. Use the dkongrev.zip and place it in the appropriate rom location. On RetroPie you must use the lr-fbneo emulator to play the rom-hack. You might have to update Retropie lr-fbneo from source to get the most recent version of the emulator.
+
+- On most other emulators (e.g. WolfMame) you can play this game by replacing the original dkong.zip by this Reverse version of the dkong.zip. You have to start the emulator without checksum checking (in WolfMame by starting it from the command line and specifying the romname).
 
 Besides the reversed gameplay I've tried to keep the game as close to the original as possible. However, to increase the gameplay, I had to make the following adjustments:
 
